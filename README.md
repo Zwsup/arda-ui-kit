@@ -7,4 +7,4 @@ in this kit you can find components that like used in websites, for example a he
 I'm gonna add some coloring in the future.
 
 
-maybe in the future i can add a framework system like "<div class="navbar-1">" and boom fully responsive and easy navigation bar is on your page!
+maybe in the future i can add a framework system like you type "navbar-1" in your project and boom fully responsive and easy navigation bar is on your page!
